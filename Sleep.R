@@ -61,7 +61,7 @@ simulated_data <- tibble(
 
 head(simulated_data)
 
-# who sleeps worse 
+# Now who sleeps worse ?????
 simulated_data %>%
   ggplot(aes(Gender, Sleep_Quality, color= Gender))+
   geom_boxplot()+
