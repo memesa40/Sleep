@@ -123,7 +123,8 @@ simulated_data %>%
   scale_color_manual(values = 
                        c("female" = "#CC6CE7",
                          "male" = "#FFDE59", 
-                         "nonbinary" = "#BFD641"))
+                         "nonbinary" = "#BFD641"))+
+  labs(title = "QQ Plot of Sleep Quality by Gender and Sleep Disorder",x = "Theoretical Quantiles",y = "Sample Quantiles")
 
 simulated_data %>%
   ggplot(aes(sample = Sleep_Duration, color = Gender)) +
@@ -133,8 +134,8 @@ simulated_data %>%
   scale_color_manual(values = 
                        c("female" = "#6AC2AA",
                          "male" = "#C26A84", 
-                         "nonbinary" = "#BFD641"))
-
+                         "nonbinary" = "#BFD641"))+
+  labs(title = "QQ Plot of Sleep Duration by Gender and Sleep Disorder",x = "Theoretical Quantiles",y = "Sample Quantiles")
 
 
 # it would also seem that males had better sleep quantity and females had better sleep quality despite the sleep disorder
