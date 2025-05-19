@@ -1,1 +1,11 @@
 
+![Rplot04](https://github.com/user-attachments/assets/119c7047-39b4-448f-a410-6efdd1ce83c6)
+![Rplot03](https://github.com/user-attachments/assets/4bf5894b-a5a9-4cf4-8c18-5dcaaf82078c)
+![Rplot02](https://github.com/user-attachments/assets/163300a2-9a34-4316-a214-56e6df912b3d)
+![Rplot01](https://github.com/user-attachments/assets/7b79c611-33f9-4a55-8cba-4fb0c817febe)
+![Rplot](https://github.com/user-attachments/assets/bd68b805-6b2a-4631-975a-4f9475998ec4)
+![Rplot09](https://github.com/user-attachments/assets/843332fe-c86d-4548-a347-1285f72ddf46)
+![Rplot08](https://github.com/user-attachments/assets/39fefb0a-ea59-435a-ba21-ef9567187524)
+![Rplot07](https://github.com/user-attachments/assets/d9ce0976-6891-4698-bc70-8bc4bf924645)
+![Rplot06](https://github.com/user-attachments/assets/4f70da81-daf4-4e06-9756-ef1af1d92d67)
+![Rplot05](https://github.com/user-attachments/assets/6cebe5bb-39bb-4036-b06f-6f95c3afcb07)
